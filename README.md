@@ -1,6 +1,5 @@
 <<<<<<< HEAD
 # job-seeking-application
-# job-seeking-application-main
 =======
 # Job-seeking-application
 
@@ -24,5 +23,4 @@ The Job Seeker Panel is designed for seeking job opportunities. Key features inc
 •	Manage Applications: Job seekers can view their submitted applications and delete them if necessary.
 >>>>>>> 40f0e887a2c032d0a387718c6b939e052cd5a0c9
 # job-seeking-application-main
-# job-seeking-application
-# job-seeking-application
+
